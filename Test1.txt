@@ -1,5 +1,3 @@
 Line 1 for Master Branch
 
 Line 2 for Master Branch
-
-Line 1 for Dev Branch
