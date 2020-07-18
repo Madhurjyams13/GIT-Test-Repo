@@ -6,4 +6,9 @@ Line 3 for Master Branch
 
 Line 1 for Dev Branch
 
+<<<<<<< HEAD
 Dev Pushing online
+=======
+
+Edited Online
+>>>>>>> 2dfc934cfe5b51fec3d6df17c8b0c68524fa0f15
