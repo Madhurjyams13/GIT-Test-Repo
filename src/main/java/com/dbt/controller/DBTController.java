@@ -22,7 +22,7 @@ public class DBTController {
 	@GetMapping(path="/", produces="application/json")
 	public String Test()
 	{
-		return "Controller Testing";
+		return "Controller Testing Branch Testing";
 	}
 	
 	@GetMapping(path="/dbt", produces="application/xml")
